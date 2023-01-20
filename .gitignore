@@ -1,0 +1,9 @@
+./customer/node_modules
+./products/node_modules
+./shopping/node_modules
+build
+npm-debug.log
+.nyc
+.env
+.DS_Store
+node_modules
