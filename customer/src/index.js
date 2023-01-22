@@ -2,6 +2,7 @@ const express = require('express');
 const { PORT } = require('./config');
 const { databaseConnection } = require('./database');
 const expressApp = require('./express-app');
+const mongoose = require('mongoose');
 
 const StartServer = async() => {
 
